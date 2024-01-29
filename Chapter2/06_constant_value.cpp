@@ -27,5 +27,5 @@ cout << "The new Value of a is "<< a << endl;
 // cout << "The new fixed  Value of a is "<< b << endl;
 
 //  Now we can't assign new value to  variable b because  it uses const which fix the value 
-//  b=30
+//  b=30  We will get error because b is constant
 // }
